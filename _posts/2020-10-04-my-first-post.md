@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Your First Post
+title: Mi primer POST
 published: false
-date: 2015-02-01
+date: 
 categories: [blogging]
 tags: [blogging]
 ---
