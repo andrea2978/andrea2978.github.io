@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mi primer POST
+title: Mi primer Post
 published: false
-date: 
+date: 2020
 categories: [blogging]
 tags: [blogging]
 ---
