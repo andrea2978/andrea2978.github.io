@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Your First Post
+title: Puras Cosas Raras
 published: true
-date: 2015-02-01
+date: 2020-10-04
 categories: [blogging]
 tags: [blogging]
 ---
